@@ -9,7 +9,7 @@ Our previous work:
 
 [2] Panboonyuen, T.; Jitkajornwanich, K.; Lawawirojwong, S.; Srestasathiern, P.; Vateekul, P. Semantic Segmentation on Remotely Sensed Images Using an Enhanced Global Convolutional Network with Channel Attention and Domain Specific Transfer Learning. Remote Sens. 2019, 11, 83. https://doi.org/10.3390/rs11010083
 
-GCN152-TL-A (our previous model) are developed based on the ResNet-152 backbone with Channel Attention and Domain Specific Transfer Learning:
+** This work presents an alternative perspective for semantic segmentation by introducing decoder designs to the Transformer network. 
 
 <p align="center">
 <img src="images/pm1.png" width="800" />
