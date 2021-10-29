@@ -25,7 +25,7 @@ Updates:
   - **October 31, 2021: Fixed a few bugs and updated all checkpoints/**
   - **We will provide full codes after our latest article have been published.**
 
-## 1. Pretrained HR-GCN-FF-DA Checkpoints
+## 1. Pretrained SwinTF with Decoder Designs Checkpoints
 
 We have provided a list of EfficientNet checkpoints for Pretrained SwinTF with decoder designs checkpoints:.
 
