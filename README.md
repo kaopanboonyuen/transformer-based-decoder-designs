@@ -2,7 +2,7 @@
 
 Author: Teerapong Panboonyuen
 
-Our previous work: 
+Our previous works: 
 
 
 [1] Panboonyuen, T.; Jitkajornwanich, K.; Lawawirojwong, S.; Srestasathiern, P.; Vateekul, P. Semantic Labeling in Remote Sensing Corpora Using Feature Fusion-Based Enhanced Global Convolutional Network with High-Resolution Representations and Depthwise Atrous Convolution. Remote Sens. 2020, 12, 1233. https://doi.org/10.3390/rs12081233
