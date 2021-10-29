@@ -159,10 +159,8 @@ NOTE: this is still not an official code (untill we have published our article).
 
 ## Reference
 
-[1] https://github.com/VXallset/deep-high-resolution-net.TensorFlow
+[1] https://github.com/microsoft/Swin-Transformer
 
-[2] https://github.com/hsfzxjy/HRNet-tensorflow
+[2] https://github.com/rishigami/Swin-Transformer-TF
 
 [3] https://github.com/GeorgeSeif/Semantic-Segmentation-Suite
-
-[4] https://github.com/yoninachmany/raster-vision-deepglobe-semseg
