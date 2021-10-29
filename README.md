@@ -1,4 +1,4 @@
-# Transformer-Based Decoder Designs for Semantic Segmentation on Remotely Sensed Imagesased Enhanced Global Convolutional Network with High-Resolution Representations and Depthwise Atrous Convolution
+# Transformer-Based Decoder Designs for Semantic Segmentation on Remotely Sensed Images
 
 Author: Teerapong Panboonyuen
 
